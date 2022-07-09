@@ -1,0 +1,22 @@
+{
+  "name": "selenium-easy-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miraculousdev/Selenium-Easy-Project.git"
+  },
+  "author": "Miracle Anthony",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/miraculousdev/Selenium-Easy-Project/issues"
+  },
+  "homepage": "https://github.com/miraculousdev/Selenium-Easy-Project#readme",
+  "devDependencies": {
+    "cypress": "^10.3.0"
+  }
+}
